@@ -1,5 +1,0 @@
-nome = input ('Qual é o seu nome?')
-print ('Olá', nome, 'Seja bem vindo!')
-idade = input ('Quantos anos vc tem?')
-peso= input ('Qual é o seu peso?')
-print ('Boa, obrigado pelas informações extras!')

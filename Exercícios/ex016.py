@@ -1,5 +1,0 @@
-dias = int(input("Carro foi aluga por quantos dias? "))
-km = float(input("Quantos km o carro rodou: "))
-custd = (dias * 60)
-custkm = (km * 0.15)
-print("Você andou {}km por {} dias, e o valor a se pagar é R${:.2f}.".format(km, dias, (custkm + custd)))
